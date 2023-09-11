@@ -1,0 +1,25 @@
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+  }
+  
+  .timer {
+    text-align: center;
+  }
+  
+  .timer p {
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .timer span {
+    font-size: 24px;
+  }
+  
+  
